@@ -75,5 +75,22 @@
 ## `Japanese Grid`
 * This project was very hard and confusing to me. I struggled from the beginning till the end. We worked with Kejal and it became easier. We used two laptops and figured it out.
 
+---
+
 ## `Objects`
 
+```
+const Busra = {
+  firstName: "Busra",
+  lastName: "Sariguzel",
+  age: 24,
+  eyeColor: "greenish"
+};
+```
+
+console.log(Busra.lastName);
+Busra.firstName;
+Busra.age;
+Busra.eyeColor;
+
+---
